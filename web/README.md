@@ -1,1 +1,1 @@
-<h1>Files server</h1>
+<h1>server</h1>
