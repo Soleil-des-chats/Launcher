@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.bing.com/images/search?q=launcher+icon&id=22A051B57A23D94935F76BF45E1EE187A442A8A1&FORM=IQFRBA" width="65%" height="65%" alt="Launcher"></p>
+<p align="center"><img src="https://static.vecteezy.com/system/resources/previews/000/354/572/original/launcher-vector-icon.jpg" width="65%" height="65%" alt="Launcher"></p>
 
 <h1 align="center">Rocket Launcher</h1>
 
